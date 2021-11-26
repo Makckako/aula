@@ -1,6 +1,6 @@
 console.log("Hello world!!!") 
 
-const // variavel serve para armazenar uma informação
+const // objeto que armazena uma informação ou um valor
 
 const a = 1 // numero (integer)
 const b = '1' // texto (string)
