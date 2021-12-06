@@ -10,4 +10,4 @@ console.log(parseInt(result.a) * parseInt(result.b) * parseInt(result.c
 })
 }
 
-mult() 
+mult()  

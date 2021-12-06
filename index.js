@@ -1,7 +1,11 @@
 console.log("Hello world!!!") 
 
-const a = 758
-const b = 500
+const a = true
+const b = false
 
-const soma = a + b 
-console.log('O valor da soma é:', soma)
+if (a == b) {
+    console.log('o número ${a} é maior que o número ${b}');
+} else {
+    console.log('o número ${a} é menor que o número ${b}');
+}
+
